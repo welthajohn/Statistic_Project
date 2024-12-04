@@ -1,2 +1,2 @@
 # Statistic_Project
-Statisitc_Project
+Statistics is the science of collecting, organizing, analyzing, and interpreting data to make informed decisions. It plays a vital role in understanding patterns, relationships, and trends in various fields like business, healthcare, technology, and social sciences. Key concepts in statistics include descriptive statistics (mean, median, mode, standard deviation) and inferential statistics (hypothesis testing, regression, probability). By leveraging tools like Python, R, and statistical models, we can transform raw data into meaningful insights, driving better decision-making and predictive analysis.
